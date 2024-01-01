@@ -1,0 +1,13 @@
+https://ui.shadcn.com/docs/installation/next
+https://uploadthing.com/dashboard
+https://clerk.com/docs/references/nextjs/custom-signup-signin-pages
+
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npm install uploadthing @uploadthin
+npm install @clerk/nextjs
+npx shadcn-ui@latest add separator
+npm install mongoose mongodb
+
+nazmul900
+nazmul12345
